@@ -16,6 +16,7 @@ on:
           - all
           - crawler
           - mcp
+          
 
 env:
   REGISTRY: docker.io
